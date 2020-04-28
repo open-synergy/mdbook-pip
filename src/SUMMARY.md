@@ -1,11 +1,15 @@
 # Summary
 
+[Petunjuk Simbol](./petunjuk-simbol.md)
 - [SOP](./sop.md)
+    - [Project](./sop/project.md)
+        - [Pengelolaan Project](./sop/project/pembuatan-project.md)
 - [Instruksi Kerja](./instruksi-kerja.md)
     - [Project](./instruksi-kerja/project.md)
         - [Input Data Awal Project](./instruksi-kerja/project/input-data-awal-project.md)
         - [Input To-Do Pra-Kegiatan](./instruksi-kerja/project/input-todo-pra-kegiatan.md)
         - [Memulai Project](./instruksi-kerja/project/memulai-project.md)
+        - [Input To-Do](./instruksi-kerja/project/input-todo.md)        
         - [Menangguhkan Project](./instruksi-kerja/project/menangguhkan-project.md)
         - [Membatalkan Project](./instruksi-kerja/project/membatalkan-project.md)
         - [Mereaktivasi Project](./instruksi-kerja/project/mereaktivasi-project.md)
